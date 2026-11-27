@@ -32,6 +32,13 @@ Work through the notebooks in this order:
 | [**pyproject.toml**](pyproject.toml) | Project configuration and dependencies. |
 | [**uv.lock**](uv.lock) | Dependency lock file. |
 
+## My work
+
+- **01**: all cells run with outputs kept; added a short univariate summary (section 4), a fixed random seed and a printout of the fitted Beta prior, and the real p-value of our run (0.288) next to the lesson's text.
+- **02**: run top to bottom, outputs kept (baseline 12.02 %, MDE about 2.85 % relative with the observed traffic).
+- **03**: all 7 practice exercises solved in the exercise cells (my own code and written answers), checked against the inline solutions.
+- Done as a delegated pass by Claude on 2026-11-27; owner review pending.
+
 ## Setup
 
 > [!NOTE]
